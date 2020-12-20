@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "default"  "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 title                    : "The AI oath"
-title_separator          : " "
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Houda Kaddioui"
 description              : "First, do no harm"
@@ -88,15 +88,15 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true #, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dr. Houda Kaddioui"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "General Practitioner| AI Scientist| Healthcare Technology Consultant"
+  location         : "Montreal, Canada"
   email            :
   links:
     - label: "Email"
