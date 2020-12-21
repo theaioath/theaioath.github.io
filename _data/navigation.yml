@@ -1,7 +1,10 @@
 # main links
 main:
-  - title: "AI learning lab"
-    url: theaioath.github.io/ailab
+  - title: "AI Learning lab"
+    url: /ailab
+  - title: "About"
+    url: https://theaioath.github.io/about
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
