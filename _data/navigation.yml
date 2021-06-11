@@ -3,8 +3,9 @@ main:
   - title: "AI Learning lab"
     url: /ailab
   - title: "About"
-    url: https://theaioath.github.io/about
-  
+    url: /about
+  - title: "Posts"
+    url: /posts/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
