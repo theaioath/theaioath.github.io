@@ -3,9 +3,9 @@ filename: "_pages/about.md"
 permalink: "/about.html"
 ---
 
-Hi there :) 
 
-I'm Houda, I am a medical doctor and senior AI scientist currently living in Montreal, Canada.  
-Just like all my peers, I gave an oath to do no harm, and I beleive this applies to the AI tools I develop as well. I have experience in computer vision on medical imaging, and recently started digging deeper in  explainable AI and responsible AI for healthcare. I'll be sharing around those topics, and documenting my learning in XAI on the AI lab.  
+I am a medical doctor and senior AI scientist currently based in Montreal, Canada.  
+I gave an oath to do no harm wen I joined the medical body, and I beleive it applies to the AI tools I develop as much as it does to treating my patients. Machine learning and AI have seen a tremendous evolution in the last couple of years, and it is about time we make a responsible use of these tools.  
+I recently started digging deeper in explainable AI and responsible AI for healthcare, so I'll be documenting my learnings around these topics, and sharing more broadly about AI and medicine.
 
 Stay tuned! 

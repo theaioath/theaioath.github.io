@@ -43,4 +43,3 @@ On the same *Directory* tab, the right panel lets point to the correct directory
 
 !!! tip Tip
         If you ever need to add an extension to all your images or batch change the extension, check out my [post]("_posts/_til/batchrename").
-Dd
